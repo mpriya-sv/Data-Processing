@@ -2,7 +2,9 @@
 Hands on various datasets
 
 Works are related to:
-    - Data Cleaning
-    - Exploratory Data Analysis (EDA)
-    - Pipelining
-    - Machine learning algorithms.
+
+Markup : * Data Cleaning
+         * Exploratory Data Analysis (EDA)
+         * Pipelining
+         * Machine learning algorithms
+
