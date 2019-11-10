@@ -1,4 +1,8 @@
 # Data-Processing
 Hands on various datasets
 
-Works related to Data Cleaning, Exploratory Data Analysis (EDA), various Machine learning algorithms.
+Works are related to:
+    - Data Cleaning
+    - Exploratory Data Analysis (EDA)
+    - Pipelining
+    - Machine learning algorithms.
